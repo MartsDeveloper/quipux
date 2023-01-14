@@ -1,7 +1,5 @@
 # Challenge - Quipux
 
-# Importante
-
 # Tecnologias
 
 <h3>Programas Utilizados</h3>
