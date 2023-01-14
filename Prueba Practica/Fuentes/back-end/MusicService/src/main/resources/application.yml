@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: musicService
+  h2:
+    console:
+      enabled: true
+  main:
+    allow-bean-definition-overriding: true
+server:
+  port: 58080
+  error:
+    include-stacktrace: always
+logging:
+  file:
+    name: C:/Recursos/logs/music.log
+  pattern:
+    file: "%d{yyyy-MM-dd HH:mm:ss} ${LOG_LEVEL_PATTERN:-%5p} %m%n"
